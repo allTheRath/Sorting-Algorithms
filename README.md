@@ -1,7 +1,12 @@
 # Sorting-Algorithms
-For C# .Net
+Sorting algorithms are For C#.
 
-Name Space For Dll:   "using SortingAlgorithm;"
+##Instalation
+Use the add reference to include .dll file in your project.
+```bash
+  References -> Add-Reference -> Browse File-> Confirm
+```
+After adding it to the reference add Name Space For Dll:   "using SortingAlgorithm;"
 
 Class Name: "Sorting"
 
