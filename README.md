@@ -1,7 +1,7 @@
 # Sorting-Algorithms
 Sorting algorithms are For C#.
 
-##Instalation
+## Instalation
 Use the add reference to include .dll file in your project.
 ```bash
   References -> Add-Reference -> Browse File-> Confirm
