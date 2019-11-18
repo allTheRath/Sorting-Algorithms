@@ -1,5 +1,5 @@
 # Sorting-Algorithms
-Sorting algorithms are For C#.
+Sorting algorithms are for C#.
 
 ## Instalation
 Use the add reference to include .dll file in your project.
